@@ -29,7 +29,7 @@ p{
 	text-transform: uppercase;
 }
 .menu img{
-	margin-bottom: 0px 15px -20px;
+	margin-bottom:  15px -20px;
 }
 .menu img:hover{
 	opacity: 0;
@@ -265,7 +265,6 @@ p{
 	margin: 0;
 	padding: 0;
 	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-	background: -moz-linear-gradient(120deg);
 	height: 100vh;
 	overflow: hidden;
 }
